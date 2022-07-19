@@ -5,6 +5,7 @@ This is the object detection pipeline of AUV IITK, trained on [YOLOv3](https://g
 The custom dataset was made by annotating the images and storing the labels in YOLO format using [OpenLabeling](git@github.com:AUV-IITK/YOLOv3_object_detection.git)
 tool.
 
+
 Detailed training process can be found in [YOLOv3training](./YOLOv3training.ipynb) notebook.
 
 The last saved weights can be found in the [here](https://drive.google.com/drive/folders/1DPb5JKjBqav7pKfaYFYUsmFGzNcYyOan?usp=sharing).
